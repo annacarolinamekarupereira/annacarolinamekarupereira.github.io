@@ -1,3 +1,31 @@
 body {
     background: white;
   }
+
+  #mainDiv {
+      background: beige;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      width: 700px;
+      margin: auto;
+      padding: 30px;
+  }
+
+  #headerDiv {
+      background-color: yellow;
+  }
+
+  main {
+      background-color: lightcoral;
+  }
+
+ 
+
+  #mainTittle {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  li {
+     display: block;
+     float: left;
+  }
