@@ -1,31 +1,37 @@
 body {
-    background: white;
-  }
+    background-color: #e5ffe5;
+}
 
-  #mainDiv {
-      background: beige;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-      width: 700px;
-      margin: auto;
-      padding: 30px;
-  }
-
-  #headerDiv {
-      background-color: yellow;
-  }
-
-  main {
-      background-color: lightcoral;
-  }
-
- 
-
-  #mainTittle {
-    font-size: 22px;
+h1{
     text-align: center;
-  }
+    padding: 10px;
+    margin: 10px;
+}
 
-  li {
-     display: block;
-     float: left;
-  }
+
+#dogs-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+div {
+    background-color: white;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+#mainDiv {
+    margin-top: 100px;
+    padding-bottom: 10%;
+}
+
+
+#me-img{
+    width: 250px;
+    height: 300px;
+    border-radius: 50%;
+}
+
